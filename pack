@@ -1,0 +1,7 @@
+#!/bin/sh
+
+cd answer-the-conclusion
+rm -f ../atc.epub
+zip -X -0 ../atc.epub mimetype
+zip -X -r -0 ../atc.epub META-INF
+zip -X -r -9 ../atc.epub OEBPS
