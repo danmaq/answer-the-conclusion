@@ -1,0 +1,25 @@
+box: alpine
+
+build:
+  steps:
+  - script:
+    name: Install dependencies.
+    code: apk add --no-cache zip
+  - script:
+    name: Packing.
+    code: ./pack
+deploy:
+  steps:
+  - script:
+    name: Install dependencies.
+    code: apk add --no-cache curl file
+  - script:
+    name: Generate timestamp.
+    code: export APPVER=$(date "+%Y%m%d-%H%M")
+  - github-create-release:
+    token: ${GITHUB_TOKEN}
+    tag: ${APPVER}
+  - github-upload-asset:
+    token: ${GITHUB_TOKEN}
+    file: atc.epub
+    filename: evil-magic-${WERCKER_GIT_BRANCH}-${APPVER}.epub
