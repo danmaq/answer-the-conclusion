@@ -31,29 +31,5 @@
       </navLabel>
       <content src="body/07.xhtml#toc_index_1" />
     </navPoint>
-    <navPoint id="_15" playOrder="4">
-      <navLabel>
-        <text>答え</text>
-      </navLabel>
-      <content src="body/15.xhtml#toc_index_1" />
-    </navPoint>
-    <navPoint id="_21" playOrder="5">
-      <navLabel>
-        <text>隠された結末</text>
-      </navLabel>
-      <content src="body/21.xhtml#toc_index_1" />
-    </navPoint>
-    <navPoint id="_31" playOrder="6">
-      <navLabel>
-        <text>涼子</text>
-      </navLabel>
-      <content src="body/31.xhtml#toc_index_1" />
-    </navPoint>
-    <navPoint id="_42" playOrder="7">
-      <navLabel>
-        <text>あとがき</text>
-      </navLabel>
-      <content src="body/42.xhtml#toc_index_1" />
-    </navPoint>
   </navMap>
 </ncx>
