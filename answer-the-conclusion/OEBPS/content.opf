@@ -58,7 +58,7 @@
     <item media-type="application/xhtml+xml" href="body/39.xhtml" id="_39.xhtml" />
     <item media-type="application/xhtml+xml" href="body/40.xhtml" id="_40.xhtml" />
     <item media-type="application/xhtml+xml" href="body/41.xhtml" id="_41.xhtml" />
-    <item media-type="application/xhtml+xml" href="body/42.xhtml" id="_42.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/43.xhtml" id="_43.xhtml" />
     <item media-type="application/xhtml+xml" href="body/i0.xhtml" id="_i0.xhtml" />
     <item media-type="application/x-dtbncx+xml" href="toc.ncx" id="_toc.ncx" />
   </manifest>
@@ -107,7 +107,7 @@
     <itemref idref="_39.xhtml" />
     <itemref idref="_40.xhtml" />
     <itemref idref="_41.xhtml" />
-    <itemref idref="_42.xhtml" />
+    <itemref idref="_43.xhtml" />
   </spine>
   <guide>
     <reference type="titlepage" title="扉" href="body/i0.xhtml" />
