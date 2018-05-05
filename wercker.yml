@@ -22,4 +22,4 @@ deploy:
   - github-upload-asset:
     token: ${GITHUB_TOKEN}
     file: atc.epub
-    filename: evil-magic-${WERCKER_GIT_BRANCH}-${APPVER}.epub
+    filename: answer-the-conclusion-${WERCKER_GIT_BRANCH}-${APPVER}.epub
