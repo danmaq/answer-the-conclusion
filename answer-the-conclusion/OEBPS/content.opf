@@ -15,7 +15,7 @@
   <manifest>
     <item media-type="text/css" href="template.css" id="_template.css" />
     <item media-type="text/css" href="style.css" id="_style.css" />
-    <item media-type="application/xhtml+xml" href="titlepage.xhtml" id="_titlepage.xhtml" />
+    <item media-type="application/xhtml+xml" href="i0.xhtml" id="_i0.xhtml" />
     <item media-type="application/xhtml+xml" href="nav.xhtml" id="_nav.xhtml" properties="nav" />
     <item media-type="application/xhtml+xml" href="body/00.xhtml" id="_00.xhtml" />
     <item media-type="application/xhtml+xml" href="body/01.xhtml" id="_01.xhtml" />
@@ -63,7 +63,7 @@
     <item media-type="application/x-dtbncx+xml" href="toc.ncx" id="_toc.ncx" />
   </manifest>
   <spine page-progression-direction="rtl" toc="_toc.ncx">
-    <itemref idref="_titlepage.xhtml" />
+    <itemref idref="_i0.xhtml" />
     <itemref idref="_nav.xhtml" />
     <itemref idref="_00.xhtml" />
     <itemref idref="_01.xhtml" />
@@ -110,7 +110,7 @@
     <itemref idref="_42.xhtml" />
   </spine>
   <guide>
-    <reference type="titlepage" title="扉" href="titlepage.xhtml" />
+    <reference type="titlepage" title="扉" href="body/i0.xhtml" />
     <reference type="toc" title="目次" href="nav.xhtml" />
     <reference type="text" title="本文" href="body/0.xhtml" />
   </guide>
