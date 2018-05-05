@@ -13,43 +13,43 @@
     <text>Answer the Conclusion</text>
   </docTitle>
   <navMap>
-    <navPoint id="00.xhtml__toc_index_1" playOrder="1">
+    <navPoint id="_00" playOrder="1">
       <navLabel>
         <text>プロローグ</text>
       </navLabel>
       <content src="body/00.xhtml#toc_index_1" />
     </navPoint>
-    <navPoint id="03.xhtml__toc_index_1" playOrder="2">
+    <navPoint id="_03" playOrder="2">
       <navLabel>
         <text>澪音</text>
       </navLabel>
       <content src="body/03.xhtml#toc_index_1" />
     </navPoint>
-    <navPoint id="07.xhtml__toc_index_1" playOrder="3">
+    <navPoint id="_07" playOrder="3">
       <navLabel>
         <text>智明</text>
       </navLabel>
       <content src="body/07.xhtml#toc_index_1" />
     </navPoint>
-    <navPoint id="15.xhtml__toc_index_1" playOrder="4">
+    <navPoint id="_15" playOrder="4">
       <navLabel>
         <text>答え</text>
       </navLabel>
       <content src="body/15.xhtml#toc_index_1" />
     </navPoint>
-    <navPoint id="21.xhtml__toc_index_1" playOrder="5">
+    <navPoint id="_21" playOrder="5">
       <navLabel>
         <text>隠された結末</text>
       </navLabel>
       <content src="body/21.xhtml#toc_index_1" />
     </navPoint>
-    <navPoint id="31.xhtml__toc_index_1" playOrder="6">
+    <navPoint id="_31" playOrder="6">
       <navLabel>
         <text>涼子</text>
       </navLabel>
       <content src="body/31.xhtml#toc_index_1" />
     </navPoint>
-    <navPoint id="41.xhtml__toc_index_1" playOrder="7">
+    <navPoint id="_41" playOrder="7">
       <navLabel>
         <text>あとがき</text>
       </navLabel>
