@@ -1,60 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/"
-    xmlns="http://www.daisy.org/z3986/2005/ncx/"
-    version="2005-1"
-    xml:lang="ja">
-    <head>
-        <meta name="dtb:uid" content="urn:uuid:d598b98f-b1d9-4dce-b206-a9da9fdd9a84"/>
-        <meta name="dtb:depth" content="1"/>
-        <meta name="dtb:totalPageCount" content="0"/>
-        <meta name="dtb:maxPageNumber" content="0"/>
-    </head>
-    <docTitle>
-        <text>Answer the Conclusion</text>
-    </docTitle>
-    <navMap>
-<navPoint id="body/00.xhtml__toc_index_1" playOrder="1">
-<navLabel>
-<text>プロローグ</text>
-</navLabel>
-<content src="body/00.xhtml#toc_index_1" />
-</navPoint>
-<navPoint id="body/03.xhtml__toc_index_1" playOrder="2">
-<navLabel>
-<text>澪音</text>
-</navLabel>
-<content src="body/03.xhtml#toc_index_1" />
-</navPoint>
-<navPoint id="body/07.xhtml__toc_index_1" playOrder="3">
-<navLabel>
-<text>智明</text>
-</navLabel>
-<content src="body/07.xhtml#toc_index_1" />
-</navPoint>
-<navPoint id="body/15.xhtml__toc_index_1" playOrder="4">
-<navLabel>
-<text>答え</text>
-</navLabel>
-<content src="body/15.xhtml#toc_index_1" />
-</navPoint>
-<navPoint id="body/21.xhtml__toc_index_1" playOrder="5">
-<navLabel>
-<text>隠された結末</text>
-</navLabel>
-<content src="body/21.xhtml#toc_index_1" />
-</navPoint>
-<navPoint id="body/31.xhtml__toc_index_1" playOrder="6">
-<navLabel>
-<text>涼子</text>
-</navLabel>
-<content src="body/31.xhtml#toc_index_1" />
-</navPoint>
-<navPoint id="body/41.xhtml__toc_index_1" playOrder="7">
-<navLabel>
-<text>あとがき</text>
-</navLabel>
-<content src="body/41.xhtml#toc_index_1" />
-</navPoint>
-</navMap>
-
+     xmlns="http://www.daisy.org/z3986/2005/ncx/"
+     version="2005-1"
+     xml:lang="ja">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:d598b98f-b1d9-4dce-b206-a9da9fdd9a84"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Answer the Conclusion</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="body/00.xhtml__toc_index_1" playOrder="1">
+      <navLabel>
+        <text>プロローグ</text>
+      </navLabel>
+      <content src="body/00.xhtml#toc_index_1" />
+    </navPoint>
+    <navPoint id="body/03.xhtml__toc_index_1" playOrder="2">
+      <navLabel>
+        <text>澪音</text>
+      </navLabel>
+      <content src="body/03.xhtml#toc_index_1" />
+    </navPoint>
+    <navPoint id="body/07.xhtml__toc_index_1" playOrder="3">
+      <navLabel>
+        <text>智明</text>
+      </navLabel>
+      <content src="body/07.xhtml#toc_index_1" />
+    </navPoint>
+    <navPoint id="body/15.xhtml__toc_index_1" playOrder="4">
+      <navLabel>
+        <text>答え</text>
+      </navLabel>
+      <content src="body/15.xhtml#toc_index_1" />
+    </navPoint>
+    <navPoint id="body/21.xhtml__toc_index_1" playOrder="5">
+      <navLabel>
+        <text>隠された結末</text>
+      </navLabel>
+      <content src="body/21.xhtml#toc_index_1" />
+    </navPoint>
+    <navPoint id="body/31.xhtml__toc_index_1" playOrder="6">
+      <navLabel>
+        <text>涼子</text>
+      </navLabel>
+      <content src="body/31.xhtml#toc_index_1" />
+    </navPoint>
+    <navPoint id="body/41.xhtml__toc_index_1" playOrder="7">
+      <navLabel>
+        <text>あとがき</text>
+      </navLabel>
+      <content src="body/41.xhtml#toc_index_1" />
+    </navPoint>
+  </navMap>
 </ncx>
