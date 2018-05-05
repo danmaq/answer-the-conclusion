@@ -1,117 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="identifier0" version="3.0" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
-<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-<dc:identifier id="identifier0">urn:uuid:d598b98f-b1d9-4dce-b206-a9da9fdd9a84</dc:identifier>
-<meta refines="#identifier0" property="identifier-type" scheme="xsd:string">uuid</meta>
-<dc:title id="title0">Answer the Conclusion</dc:title>
-<meta refines="#title0" property="display-seq">1</meta>
-<dc:creator id="creator0">野村 周平(Mc)</dc:creator>
-<meta refines="#creator0" property="display-seq">1</meta>
-<dc:format>application/epub+zip</dc:format>
-<dc:language>ja</dc:language>
-<meta property="ibooks:specified-fonts">true</meta>
-<meta property="dcterms:modified">2018-05-04T14:41:56Z</meta>
-</metadata>
-<manifest>
-<item media-type="text/css" href="template.css" id="_template.css" />
-<item media-type="text/css" href="style.css" id="_style.css" />
-<item media-type="application/xhtml+xml" href="titlepage.xhtml" id="_titlepage.xhtml" />
-<item media-type="application/xhtml+xml" href="nav.xhtml" id="_nav.xhtml" properties="nav" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_0.xhtml" id="_bodymatter_0_0.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_1.xhtml" id="_bodymatter_0_1.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_2.xhtml" id="_bodymatter_0_2.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_3.xhtml" id="_bodymatter_0_3.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_4.xhtml" id="_bodymatter_0_4.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_5.xhtml" id="_bodymatter_0_5.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_6.xhtml" id="_bodymatter_0_6.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_7.xhtml" id="_bodymatter_0_7.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_8.xhtml" id="_bodymatter_0_8.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_9.xhtml" id="_bodymatter_0_9.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_10.xhtml" id="_bodymatter_0_10.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_11.xhtml" id="_bodymatter_0_11.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_12.xhtml" id="_bodymatter_0_12.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_13.xhtml" id="_bodymatter_0_13.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_14.xhtml" id="_bodymatter_0_14.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_15.xhtml" id="_bodymatter_0_15.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_16.xhtml" id="_bodymatter_0_16.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_17.xhtml" id="_bodymatter_0_17.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_18.xhtml" id="_bodymatter_0_18.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_19.xhtml" id="_bodymatter_0_19.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_20.xhtml" id="_bodymatter_0_20.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_21.xhtml" id="_bodymatter_0_21.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_22.xhtml" id="_bodymatter_0_22.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_23.xhtml" id="_bodymatter_0_23.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_24.xhtml" id="_bodymatter_0_24.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_25.xhtml" id="_bodymatter_0_25.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_26.xhtml" id="_bodymatter_0_26.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_27.xhtml" id="_bodymatter_0_27.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_28.xhtml" id="_bodymatter_0_28.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_29.xhtml" id="_bodymatter_0_29.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_30.xhtml" id="_bodymatter_0_30.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_31.xhtml" id="_bodymatter_0_31.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_32.xhtml" id="_bodymatter_0_32.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_33.xhtml" id="_bodymatter_0_33.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_34.xhtml" id="_bodymatter_0_34.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_35.xhtml" id="_bodymatter_0_35.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_36.xhtml" id="_bodymatter_0_36.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_37.xhtml" id="_bodymatter_0_37.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_38.xhtml" id="_bodymatter_0_38.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_39.xhtml" id="_bodymatter_0_39.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_40.xhtml" id="_bodymatter_0_40.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_41.xhtml" id="_bodymatter_0_41.xhtml" />
-<item media-type="application/xhtml+xml" href="bodymatter_0_42.xhtml" id="_bodymatter_0_42.xhtml" />
-<item media-type="application/x-dtbncx+xml" href="toc.ncx" id="_toc.ncx" />
-</manifest>
-<spine page-progression-direction="rtl" toc="_toc.ncx">
-<itemref idref="_titlepage.xhtml" />
-<itemref idref="_nav.xhtml" />
-<itemref idref="_bodymatter_0_0.xhtml" />
-<itemref idref="_bodymatter_0_1.xhtml" />
-<itemref idref="_bodymatter_0_2.xhtml" />
-<itemref idref="_bodymatter_0_3.xhtml" />
-<itemref idref="_bodymatter_0_4.xhtml" />
-<itemref idref="_bodymatter_0_5.xhtml" />
-<itemref idref="_bodymatter_0_6.xhtml" />
-<itemref idref="_bodymatter_0_7.xhtml" />
-<itemref idref="_bodymatter_0_8.xhtml" />
-<itemref idref="_bodymatter_0_9.xhtml" />
-<itemref idref="_bodymatter_0_10.xhtml" />
-<itemref idref="_bodymatter_0_11.xhtml" />
-<itemref idref="_bodymatter_0_12.xhtml" />
-<itemref idref="_bodymatter_0_13.xhtml" />
-<itemref idref="_bodymatter_0_14.xhtml" />
-<itemref idref="_bodymatter_0_15.xhtml" />
-<itemref idref="_bodymatter_0_16.xhtml" />
-<itemref idref="_bodymatter_0_17.xhtml" />
-<itemref idref="_bodymatter_0_18.xhtml" />
-<itemref idref="_bodymatter_0_19.xhtml" />
-<itemref idref="_bodymatter_0_20.xhtml" />
-<itemref idref="_bodymatter_0_21.xhtml" />
-<itemref idref="_bodymatter_0_22.xhtml" />
-<itemref idref="_bodymatter_0_23.xhtml" />
-<itemref idref="_bodymatter_0_24.xhtml" />
-<itemref idref="_bodymatter_0_25.xhtml" />
-<itemref idref="_bodymatter_0_26.xhtml" />
-<itemref idref="_bodymatter_0_27.xhtml" />
-<itemref idref="_bodymatter_0_28.xhtml" />
-<itemref idref="_bodymatter_0_29.xhtml" />
-<itemref idref="_bodymatter_0_30.xhtml" />
-<itemref idref="_bodymatter_0_31.xhtml" />
-<itemref idref="_bodymatter_0_32.xhtml" />
-<itemref idref="_bodymatter_0_33.xhtml" />
-<itemref idref="_bodymatter_0_34.xhtml" />
-<itemref idref="_bodymatter_0_35.xhtml" />
-<itemref idref="_bodymatter_0_36.xhtml" />
-<itemref idref="_bodymatter_0_37.xhtml" />
-<itemref idref="_bodymatter_0_38.xhtml" />
-<itemref idref="_bodymatter_0_39.xhtml" />
-<itemref idref="_bodymatter_0_40.xhtml" />
-<itemref idref="_bodymatter_0_41.xhtml" />
-<itemref idref="_bodymatter_0_42.xhtml" />
-</spine>
-<guide>
-<reference type="titlepage" title="扉" href="titlepage.xhtml" />
-<reference type="toc" title="目次" href="nav.xhtml" />
-<reference type="text" title="本文" href="bodymatter_0_0.xhtml" />
-</guide>
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="identifier0">urn:uuid:d598b98f-b1d9-4dce-b206-a9da9fdd9a84</dc:identifier>
+    <meta refines="#identifier0" property="identifier-type" scheme="xsd:string">uuid</meta>
+    <dc:title id="title0">Answer the Conclusion</dc:title>
+    <meta refines="#title0" property="display-seq">1</meta>
+    <dc:creator id="creator0">野村 周平(Mc)</dc:creator>
+    <meta refines="#creator0" property="display-seq">1</meta>
+    <dc:format>application/epub+zip</dc:format>
+    <dc:language>ja</dc:language>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="dcterms:modified">2018-05-04T14:41:56Z</meta>
+  </metadata>
+  <manifest>
+    <item media-type="text/css" href="template.css" id="_template.css" />
+    <item media-type="text/css" href="style.css" id="_style.css" />
+    <item media-type="application/xhtml+xml" href="i0.xhtml" id="_i0.xhtml" />
+    <item media-type="application/xhtml+xml" href="nav.xhtml" id="_nav.xhtml" properties="nav" />
+    <item media-type="application/xhtml+xml" href="body/00.xhtml" id="_00.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/01.xhtml" id="_01.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/02.xhtml" id="_02.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/03.xhtml" id="_03.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/04.xhtml" id="_04.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/05.xhtml" id="_05.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/06.xhtml" id="_06.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/07.xhtml" id="_07.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/08.xhtml" id="_08.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/09.xhtml" id="_09.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/10.xhtml" id="_10.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/11.xhtml" id="_11.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/12.xhtml" id="_12.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/13.xhtml" id="_13.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/14.xhtml" id="_14.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/15.xhtml" id="_15.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/16.xhtml" id="_16.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/17.xhtml" id="_17.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/18.xhtml" id="_18.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/19.xhtml" id="_19.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/20.xhtml" id="_20.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/21.xhtml" id="_21.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/22.xhtml" id="_22.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/23.xhtml" id="_23.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/24.xhtml" id="_24.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/25.xhtml" id="_25.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/26.xhtml" id="_26.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/27.xhtml" id="_27.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/28.xhtml" id="_28.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/29.xhtml" id="_29.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/30.xhtml" id="_30.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/31.xhtml" id="_31.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/32.xhtml" id="_32.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/33.xhtml" id="_33.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/34.xhtml" id="_34.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/35.xhtml" id="_35.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/36.xhtml" id="_36.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/37.xhtml" id="_37.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/38.xhtml" id="_38.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/39.xhtml" id="_39.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/40.xhtml" id="_40.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/41.xhtml" id="_41.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/42.xhtml" id="_42.xhtml" />
+    <item media-type="application/x-dtbncx+xml" href="toc.ncx" id="_toc.ncx" />
+  </manifest>
+  <spine page-progression-direction="rtl" toc="_toc.ncx">
+    <itemref idref="_i0.xhtml" />
+    <itemref idref="_nav.xhtml" />
+    <itemref idref="_00.xhtml" />
+    <itemref idref="_01.xhtml" />
+    <itemref idref="_02.xhtml" />
+    <itemref idref="_03.xhtml" />
+    <itemref idref="_04.xhtml" />
+    <itemref idref="_05.xhtml" />
+    <itemref idref="_06.xhtml" />
+    <itemref idref="_07.xhtml" />
+    <itemref idref="_08.xhtml" />
+    <itemref idref="_09.xhtml" />
+    <itemref idref="_10.xhtml" />
+    <itemref idref="_11.xhtml" />
+    <itemref idref="_12.xhtml" />
+    <itemref idref="_13.xhtml" />
+    <itemref idref="_14.xhtml" />
+    <itemref idref="_15.xhtml" />
+    <itemref idref="_16.xhtml" />
+    <itemref idref="_17.xhtml" />
+    <itemref idref="_18.xhtml" />
+    <itemref idref="_19.xhtml" />
+    <itemref idref="_20.xhtml" />
+    <itemref idref="_21.xhtml" />
+    <itemref idref="_22.xhtml" />
+    <itemref idref="_23.xhtml" />
+    <itemref idref="_24.xhtml" />
+    <itemref idref="_25.xhtml" />
+    <itemref idref="_26.xhtml" />
+    <itemref idref="_27.xhtml" />
+    <itemref idref="_28.xhtml" />
+    <itemref idref="_29.xhtml" />
+    <itemref idref="_30.xhtml" />
+    <itemref idref="_31.xhtml" />
+    <itemref idref="_32.xhtml" />
+    <itemref idref="_33.xhtml" />
+    <itemref idref="_34.xhtml" />
+    <itemref idref="_35.xhtml" />
+    <itemref idref="_36.xhtml" />
+    <itemref idref="_37.xhtml" />
+    <itemref idref="_38.xhtml" />
+    <itemref idref="_39.xhtml" />
+    <itemref idref="_40.xhtml" />
+    <itemref idref="_41.xhtml" />
+    <itemref idref="_42.xhtml" />
+  </spine>
+  <guide>
+    <reference type="titlepage" title="扉" href="body/i0.xhtml" />
+    <reference type="toc" title="目次" href="nav.xhtml" />
+    <reference type="text" title="本文" href="body/0.xhtml" />
+  </guide>
 </package>
