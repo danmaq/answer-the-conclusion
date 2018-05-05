@@ -24,13 +24,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 1.5em;
   margin-right: 0.625em;
   margin-left: 0.625em;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.375em;
   margin-right: 0.83333em;
   margin-left: 0.83333em;
 }
@@ -212,10 +212,6 @@ blockquote {
   margin-top: 1em;
 }
 
-p {
-  margin: 0;
-}
-
 a {
   text-decoration: overline;
 }
@@ -268,4 +264,28 @@ em {
   ul, ol, dl {
     page-break-before: avoid;
   }
+}
+
+.mo.rein {
+  voice-family: young, female;
+}
+
+.mo.tomo {
+  voice-family: young, male;
+}
+
+.mo.marisa, .mo.toko {
+  voice-family: young, neutral;
+}
+
+.mo.tewi {
+  voice-family: old, female;
+}
+
+.mo.ryoko, .mo.maria {
+  voice-family: child, female;
+}
+
+.mo.mob {
+  voice-family: old, neutral;
 }

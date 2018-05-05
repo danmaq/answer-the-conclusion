@@ -19,7 +19,6 @@
     <item media-type="application/xhtml+xml" href="nav.xhtml" id="_nav.xhtml" properties="nav" />
     <item media-type="application/xhtml+xml" href="body/00.xhtml" id="_00.xhtml" />
     <item media-type="application/xhtml+xml" href="body/01.xhtml" id="_01.xhtml" />
-    <item media-type="application/xhtml+xml" href="body/02.xhtml" id="_02.xhtml" />
     <item media-type="application/xhtml+xml" href="body/03.xhtml" id="_03.xhtml" />
     <item media-type="application/xhtml+xml" href="body/04.xhtml" id="_04.xhtml" />
     <item media-type="application/xhtml+xml" href="body/05.xhtml" id="_05.xhtml" />
@@ -82,7 +81,6 @@
     <itemref idref="_nav.xhtml" />
     <itemref idref="_00.xhtml" />
     <itemref idref="_01.xhtml" />
-    <itemref idref="_02.xhtml" />
     <itemref idref="_03.xhtml" />
     <itemref idref="_04.xhtml" />
     <itemref idref="_i1.xhtml" />
