@@ -15,7 +15,6 @@
   <manifest>
     <item media-type="text/css" href="template.css" id="_template.css" />
     <item media-type="text/css" href="style.css" id="_style.css" />
-    <item media-type="application/xhtml+xml" href="i0.xhtml" id="_i0.xhtml" />
     <item media-type="application/xhtml+xml" href="nav.xhtml" id="_nav.xhtml" properties="nav" />
     <item media-type="application/xhtml+xml" href="body/00.xhtml" id="_00.xhtml" />
     <item media-type="application/xhtml+xml" href="body/01.xhtml" id="_01.xhtml" />
@@ -59,7 +58,8 @@
     <item media-type="application/xhtml+xml" href="body/39.xhtml" id="_39.xhtml" />
     <item media-type="application/xhtml+xml" href="body/40.xhtml" id="_40.xhtml" />
     <item media-type="application/xhtml+xml" href="body/41.xhtml" id="_41.xhtml" />
-    <item media-type="application/xhtml+xml" href="body/42.xhtml" id="_42.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/43.xhtml" id="_43.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/i0.xhtml" id="_i0.xhtml" />
     <item media-type="application/x-dtbncx+xml" href="toc.ncx" id="_toc.ncx" />
   </manifest>
   <spine page-progression-direction="rtl" toc="_toc.ncx">
@@ -107,11 +107,11 @@
     <itemref idref="_39.xhtml" />
     <itemref idref="_40.xhtml" />
     <itemref idref="_41.xhtml" />
-    <itemref idref="_42.xhtml" />
+    <itemref idref="_43.xhtml" />
   </spine>
   <guide>
     <reference type="titlepage" title="扉" href="body/i0.xhtml" />
     <reference type="toc" title="目次" href="nav.xhtml" />
-    <reference type="text" title="本文" href="body/0.xhtml" />
+    <reference type="text" title="本文" href="body/00.xhtml" />
   </guide>
 </package>
