@@ -49,11 +49,11 @@
       </navLabel>
       <content src="body/31.xhtml#toc_index_1" />
     </navPoint>
-    <navPoint id="_41" playOrder="7">
+    <navPoint id="_42" playOrder="7">
       <navLabel>
         <text>あとがき</text>
       </navLabel>
-      <content src="body/41.xhtml#toc_index_1" />
+      <content src="body/42.xhtml#toc_index_1" />
     </navPoint>
   </navMap>
 </ncx>
