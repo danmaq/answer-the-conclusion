@@ -11,6 +11,7 @@
     <dc:language>ja</dc:language>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta property="dcterms:modified">2018-05-04T14:41:56Z</meta>
+    <meta name="cover" content="cover-id" />
   </metadata>
   <manifest>
     <item media-type="text/css" href="template.css" id="_template.css" />
@@ -58,8 +59,22 @@
     <item media-type="application/xhtml+xml" href="body/39.xhtml" id="_39.xhtml" />
     <item media-type="application/xhtml+xml" href="body/40.xhtml" id="_40.xhtml" />
     <item media-type="application/xhtml+xml" href="body/41.xhtml" id="_41.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/42.xhtml" id="_42.xhtml" />
     <item media-type="application/xhtml+xml" href="body/43.xhtml" id="_43.xhtml" />
     <item media-type="application/xhtml+xml" href="body/i0.xhtml" id="_i0.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/i1.xhtml" id="_i1.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/i2.xhtml" id="_i2.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/i3.xhtml" id="_i3.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/i4.xhtml" id="_i4.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/i5.xhtml" id="_i5.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/i6.xhtml" id="_i6.xhtml" />
+    <item id="cover-id" href="img/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="_c1" href="img/c1.jpg" media-type="image/jpeg"/>
+    <item id="_c2" href="img/c2.jpg" media-type="image/jpeg"/>
+    <item id="_c3" href="img/c3.jpg" media-type="image/jpeg"/>
+    <item id="_i1" href="img/i1.jpg" media-type="image/jpeg"/>
+    <item id="_i2" href="img/i2.jpg" media-type="image/jpeg"/>
+    <item id="_i3" href="img/i3.jpg" media-type="image/jpeg"/>
     <item media-type="application/x-dtbncx+xml" href="toc.ncx" id="_toc.ncx" />
   </manifest>
   <spine page-progression-direction="rtl" toc="_toc.ncx">
@@ -70,6 +85,7 @@
     <itemref idref="_02.xhtml" />
     <itemref idref="_03.xhtml" />
     <itemref idref="_04.xhtml" />
+    <itemref idref="_i1.xhtml" />
     <itemref idref="_05.xhtml" />
     <itemref idref="_06.xhtml" />
     <itemref idref="_07.xhtml" />
@@ -77,6 +93,7 @@
     <itemref idref="_09.xhtml" />
     <itemref idref="_10.xhtml" />
     <itemref idref="_11.xhtml" />
+    <itemref idref="_i2.xhtml" />
     <itemref idref="_12.xhtml" />
     <itemref idref="_13.xhtml" />
     <itemref idref="_14.xhtml" />
@@ -84,10 +101,12 @@
     <itemref idref="_16.xhtml" />
     <itemref idref="_17.xhtml" />
     <itemref idref="_18.xhtml" />
+    <itemref idref="_i3.xhtml" />
     <itemref idref="_19.xhtml" />
     <itemref idref="_20.xhtml" />
     <itemref idref="_21.xhtml" />
     <itemref idref="_22.xhtml" />
+    <itemref idref="_i4.xhtml" />
     <itemref idref="_23.xhtml" />
     <itemref idref="_24.xhtml" />
     <itemref idref="_25.xhtml" />
@@ -101,12 +120,15 @@
     <itemref idref="_33.xhtml" />
     <itemref idref="_34.xhtml" />
     <itemref idref="_35.xhtml" />
+    <itemref idref="_i5.xhtml" />
     <itemref idref="_36.xhtml" />
     <itemref idref="_37.xhtml" />
+    <itemref idref="_i6.xhtml" />
     <itemref idref="_38.xhtml" />
     <itemref idref="_39.xhtml" />
     <itemref idref="_40.xhtml" />
     <itemref idref="_41.xhtml" />
+    <itemref idref="_42.xhtml" />
     <itemref idref="_43.xhtml" />
   </spine>
   <guide>
