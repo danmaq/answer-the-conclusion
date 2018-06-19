@@ -13,11 +13,11 @@
     <text>Answer the Conclusion</text>
   </docTitle>
   <navMap>
-    <navPoint id="_00" playOrder="1">
+    <navPoint id="_01" playOrder="1">
       <navLabel>
         <text>プロローグ</text>
       </navLabel>
-      <content src="body/00.xhtml#toc_index_1" />
+      <content src="body/01.xhtml#toc_index_1" />
     </navPoint>
     <navPoint id="_03" playOrder="2">
       <navLabel>
