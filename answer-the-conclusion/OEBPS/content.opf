@@ -17,8 +17,8 @@
     <item media-type="text/css" href="template.css" id="_template.css" />
     <item media-type="text/css" href="style.css" id="_style.css" />
     <item media-type="application/xhtml+xml" href="nav.xhtml" id="_nav.xhtml" properties="nav" />
-    <item media-type="application/xhtml+xml" href="body/00.xhtml" id="_00.xhtml" />
     <item media-type="application/xhtml+xml" href="body/01.xhtml" id="_01.xhtml" />
+    <item media-type="application/xhtml+xml" href="body/02.xhtml" id="_02.xhtml" />
     <item media-type="application/xhtml+xml" href="body/03.xhtml" id="_03.xhtml" />
     <item media-type="application/xhtml+xml" href="body/04.xhtml" id="_04.xhtml" />
     <item media-type="application/xhtml+xml" href="body/05.xhtml" id="_05.xhtml" />
@@ -44,8 +44,8 @@
   <spine page-progression-direction="rtl" toc="_toc.ncx">
     <itemref idref="_i0.xhtml" />
     <itemref idref="_nav.xhtml" />
-    <itemref idref="_00.xhtml" />
     <itemref idref="_01.xhtml" />
+    <itemref idref="_02.xhtml" />
     <itemref idref="_03.xhtml" />
     <itemref idref="_04.xhtml" />
     <itemref idref="_i1.xhtml" />
@@ -65,6 +65,6 @@
   <guide>
     <reference type="titlepage" title="扉" href="body/i0.xhtml" />
     <reference type="toc" title="目次" href="nav.xhtml" />
-    <reference type="text" title="本文" href="body/00.xhtml" />
+    <reference type="text" title="本文" href="body/01.xhtml" />
   </guide>
 </package>
